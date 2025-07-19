@@ -22,7 +22,6 @@ Happy coding!
     
   </tr>
   <tr>
-    <th>Index</th>
     <th>Day</th>
     <th>Link</th>
     <th>Topic</th>
