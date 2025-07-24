@@ -43,6 +43,24 @@ Happy coding!
     <td><a href="https://github.com/olgamariavalenti/Solutions__30-Days-Of-Python/blob/main/Day%203/operators.py">03</a></td>
     <td>Operators</td>
   </tr>  
+
+  <tr>
+    <td>Day 04</td>
+    <td><a href="https://github.com/olgamariavalenti/Solutions__30-Days-Of-Python/tree/main/Day%204">04</a></td>
+    <td>Strings</td>
+  </tr> 
+
+  <tr>
+    <td>Day 05</td>
+    <td><a href="https://github.com/olgamariavalenti/Solutions__30-Days-Of-Python/tree/main/Day%205">05</a></td>
+    <td>Lists</td>
+  </tr> 
+
+  <tr>
+    <td>Day 06</td>
+    <td><a href="https://github.com/olgamariavalenti/Solutions__30-Days-Of-Python/tree/main/Day%206">06</a></td>
+    <td>uples</td>
+  </tr> 
   
   <tr>
 <!--     <td>02</td>
