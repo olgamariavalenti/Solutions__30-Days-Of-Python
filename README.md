@@ -59,7 +59,7 @@ Happy coding!
   <tr>
     <td>Day 06</td>
     <td><a href="https://github.com/olgamariavalenti/Solutions__30-Days-Of-Python/tree/main/Day%206">06</a></td>
-    <td>uples</td>
+    <td>Tuples</td>
   </tr> 
   
   <tr>
